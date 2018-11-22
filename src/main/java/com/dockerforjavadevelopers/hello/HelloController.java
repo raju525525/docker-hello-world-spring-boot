@@ -17,6 +17,7 @@ public class HelloController {
 				System.out.println(n + "*" + c + " = " + (n * c));
 			}
 		}
+		
 		return "Hello World\n";
 	}
 
